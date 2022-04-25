@@ -1,0 +1,17 @@
+{
+  "employee": [
+    {
+      "employee_name": "sdfsdf",
+      "employee_id": "sdfsdfsd",
+      "title": "Jr Software Developer",
+      "salary": "34324",
+      "image": "34234",
+      "username": "324324",
+      "password": "234234",
+      "tasks": "2343242",
+      "status": "terminated",
+      "team": "frontend",
+      "id": 1
+    }
+  ]
+}
